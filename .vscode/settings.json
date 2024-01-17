@@ -2,5 +2,8 @@
   "cSpell.words": [
     "adipisicing",
     "consectetur"
+  ],
+  "cSpell.enableFiletypes": [
+    "!html"
   ]
 }
